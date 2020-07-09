@@ -8,7 +8,7 @@
 
 * 今天编写了一个功能比较简单，UI有待改善的计算器。
 
-* ![calculator](/Users/acrush/Desktop/notes_md/Day 3/calculator.png)
+* ![calculator](/Users/acrush/DailyReport/Day 4/calculator.png)
 
 * 任务完成度如下
 
