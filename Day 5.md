@@ -8,13 +8,11 @@
 
 * 今天编写了一个计算机2.0版本（UI界面还行，功能仍然欠缺）。
 
-* 相比第一个版本更加美观，使用了cornerRadius把按键设置成了圆形。
+* **UI方面：**相比第一个版本更加美观，使用了cornerRadius把按键设置成了圆形。
 
-* 界面布局使用了ZStack(设置了黑色背景)、HStack、VStack，以及通过spacing设置按键间的间隙，padding添加边缘填充，使用spacer填充空间。
+* **功能方面：** 四则运算，支持小数点输入
 
-* 利用嵌套ForEach设置按键，代码简洁不少。
-
-* ![UMLrFg.png](https://s1.ax1x.com/2020/07/11/UMLrFg.png)
+* [![UQCM38.png](https://s1.ax1x.com/2020/07/11/UQCM38.png)](https://imgchr.com/i/UQCM38)
 
 * 任务完成度如下
 
@@ -40,5 +38,5 @@
 
 ## 四、学习总结
 
-* 没有学习过swiftUI，编起来还是有点吃力，只能边写边学了。
+* 肝疼
 
